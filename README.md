@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Korada saikiran</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikiran76&label=Profile%20views&color=0e75b6&style=flat" alt="saikiran76" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saikiran76" alt="saikiran76" /></a> </p>
 
-- 🔭 I’m currently working on [mytube](https://github.com/saikiran76/MyTube)
+- 🔭 I’m currently working on [Centralized AI Based communication management System](https://github.com/saikiran76/CMSMatrix)
 
 - 🌱 I’m currently learning **CI/CD, Docker, kubernetes, Prisma, Nextjs**
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@ksknew76/microservices-monolith-architecture-dbe7417a5351](https://medium.com/@ksknew76/microservices-monolith-architecture-dbe7417a5351)
 
-- 💬 Ask me about **React, Redux, JavaScript, Data Structures using JavaScript**
+- 💬 Ask me about **React, Next, Redux, JavaScript, Data Structures using JavaScript, Nodejs, ectc **
 
 - 📫 How to reach me **ksknew76105@gmail.com**
 
