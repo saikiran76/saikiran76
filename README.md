@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saikiran76" alt="saikiran76" /></a> </p>
 
-- 🔭 I’m currently working on [Centralized AI Based communication management System](https://github.com/saikiran76/CMSMatrix)
+- 🔭 I’m currently working on [DailyFix](https://github.com/saikiran76/DailyFixBackend)
 
 - 🌱 I’m currently learning **CI/CD, Docker, kubernetes, Prisma, Nextjs**
 
-- 👯 I’m looking to collaborate on [khatabook](https://github.com/saikiran76/KhataBook)
+- 👯 I’m looking to collaborate on [DailyFix](https://github.com/saikiran76/DailyFixBackend))
 
 - 👨‍💻 All of my projects are available at [https://aspiringdevkiran.netlify.app/](https://aspiringdevkiran.netlify.app/)
 
