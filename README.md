@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saikiran76" alt="saikiran76" /></a> </p>
 
-- 🔭 I’m currently working on [DailyFix](https://github.com/saikiran76/DailyFixBackend)
+- 🔭 Been into ML and AI engineering lately
 
-- 🌱 I’m currently learning **CI/CD, Docker, kubernetes, Prisma, Nextjs**
+- 🌱 And also I’m currently learning **CI/CD, Docker, kubernetes, Prisma, Nextjs**
 
 - 👯 I’m looking to collaborate on [DailyFix](https://github.com/saikiran76/DailyFixBackend))
 
